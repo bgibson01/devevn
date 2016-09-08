@@ -1,0 +1,19 @@
+{
+  "name": "@bgibson01/devenv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bgibson01/devevn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bgibson01/devevn/issues"
+  },
+  "homepage": "https://github.com/bgibson01/devevn#readme"
+}
